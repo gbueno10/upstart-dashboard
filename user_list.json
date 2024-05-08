@@ -1,0 +1,1175 @@
+[
+    {
+        "name": "upstart-bot",
+        "id": 1149361057245188136,
+        "discriminator": "1420",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2023-09-07 15:34:41.376000+00:00",
+        "roles": [
+            "@everyone",
+            "upstart-bot",
+            "ADM"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "cm309",
+        "id": 761304788230602752,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-19 16:58:39.238000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "completelymind",
+        "id": 214807568525033472,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/214807568525033472/aff47593557b4badb1a88a50304c9f69.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-13 16:46:57.919000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "steidar",
+        "id": 717417673268658247,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/717417673268658247/9aa9f814c197b22e46b8029f3e91f8cf.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 19:56:10.790000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "tinargentina",
+        "id": 1219727581423603784,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1219727581423603784/22323e90b6eeb411b440b6b4e85f4dcf.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 03:57:00.390000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie",
+            "Business",
+            "Executor"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "sofsmd",
+        "id": 762062751777816597,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/762062751777816597/1fa87e297eb7e836b360bade2af37f6d.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 17:28:09.294000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "bernardo_97399",
+        "id": 1217491009227722833,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-13 15:15:37.042000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "simo.tony",
+        "id": 435178664875786241,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:41:20.030000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "astrogame",
+        "id": 807670155895242753,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-15 12:03:12.090000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "brunoferreira_88633",
+        "id": 1181650734723375155,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-19 12:32:57.943000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "rodrigo137137",
+        "id": 768791462774702120,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:29:47.878000+00:00",
+        "roles": [
+            "@everyone",
+            "WS"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "barbara087811",
+        "id": 857005547818975235,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 15:53:36.918000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "prime_eagle_89189",
+        "id": 441022787583213568,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:30:56.452000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "liviabarros.",
+        "id": 1171883366501589093,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1171883366501589093/df26c85dbc9658cec2e027883cd73e77.png?size=1024",
+        "nickname": null,
+        "joined_at": "2023-11-08 18:51:08.892000+00:00",
+        "roles": [
+            "@everyone",
+            "Design",
+            "Idea Guy",
+            "ADM"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "sofia_duarte_design_48490",
+        "id": 1212325502782799882,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1212325502782799882/5fd30adc198ccf5652294b2004d23b95.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-17 22:39:02.461000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie",
+            "Business",
+            "Design",
+            "Problem Solver",
+            "Comunicator",
+            "Idea Guy"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "bks25",
+        "id": 769250905475907605,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:34:55.174000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "cunha7834",
+        "id": 458202254516813824,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/458202254516813824/784069e2127264a0783ceb838e548447.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-18 16:05:56.022000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "rickrubio",
+        "id": 707338576953737347,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/707338576953737347/89e28b34dc54e6a07b37938f22c8856b.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-18 16:36:57.339000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "eduardabutmakeitspicy",
+        "id": 696094100356595742,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/696094100356595742/a48e44a18ee950123282aa0cb37e89dc.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 17:07:42.373000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "Zapier",
+        "id": 368105370532577280,
+        "discriminator": "0625",
+        "avatar_url": "https://cdn.discordapp.com/avatars/368105370532577280/ce8a534e2935997eebf29d2262676036.png?size=1024",
+        "nickname": null,
+        "joined_at": "2023-09-09 15:19:42.064000+00:00",
+        "roles": [
+            "@everyone",
+            "Zapier"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "luisviegas.",
+        "id": 809823502839578635,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/809823502839578635/87980ec94c8c3e15f0c3b9412d2b073c.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 16:31:46.372000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "_nrb17",
+        "id": 521760635156168704,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/521760635156168704/cecc5c50dda0904501afd396c48fa90b.png?size=1024",
+        "nickname": "Bruno Ferreira",
+        "joined_at": "2024-03-19 12:34:54.552000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "ainhoa_m",
+        "id": 691639168836567091,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/691639168836567091/09ad3b9e895324bae1e90404733483e2.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 17:43:18.968000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "maria_amaro22",
+        "id": 715324316866314322,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/715324316866314322/1af31b687d9958e0c92a223de67fe2a9.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-18 15:54:40.884000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "stylish_lynx_60694",
+        "id": 1220064983547908106,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:43:05.233000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "beatrizlazaro",
+        "id": 769676882421219359,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-18 21:55:36.865000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "gbuenos",
+        "id": 248967748330192896,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/248967748330192896/b4e47500e80738ad992b3cd3d22143dc.png?size=1024",
+        "nickname": "Bueno",
+        "joined_at": "2023-08-23 10:17:39.358000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie",
+            "Marketing",
+            "Tech",
+            "Business",
+            "Executor",
+            "Problem Solver",
+            "Comunicator",
+            "Idea Guy",
+            "ADM"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "susana_56879",
+        "id": 1218292833602240533,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:11:23.489000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "soniat_12039_96410",
+        "id": 1220061822355374165,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:34:28.552000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "lemonso01",
+        "id": 360203520684851200,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/360203520684851200/eb65cf7b00149f65111ff15440708015.png?size=1024",
+        "nickname": "Gon\u00e7alo Costa",
+        "joined_at": "2024-03-19 12:07:30.649000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "barros0388",
+        "id": 511591729875386369,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/511591729875386369/851b797dbcb5495c32d7b80b1e414aa7.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-17 15:23:40.932000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "bigodes112",
+        "id": 341706370061697027,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/341706370061697027/dceaadd57c049cb2e8901445269683ef.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 17:05:41.967000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "zepp1_.",
+        "id": 399642338827173899,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-14 20:47:56.336000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "henriquer_79739",
+        "id": 1219322470000234588,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-18 16:32:49.801000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "bernardo617",
+        "id": 345572074485579776,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/345572074485579776/9f670aa0c9f9a74ee8ee5f1c099f59ab.png?size=1024",
+        "nickname": "Bernardo Pedro",
+        "joined_at": "2024-03-19 12:27:46.255000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "ricardofcp",
+        "id": 929427388637544521,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/929427388637544521/0d25574b0ef82d8d5e3a9d0dbcd45047.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 13:23:57.166000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "_bernardoferreira_",
+        "id": 329625053731749889,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-13 15:16:31.922000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "1984.dystopia",
+        "id": 852829654015672341,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/852829654015672341/7911cea185be84145fd4f16e416b7c3f.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-27 20:02:21.915000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "joaosousa_17",
+        "id": 464077581998882842,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/464077581998882842/24c5ff37abdb3fa478aaffa3f7965e63.png?size=1024",
+        "nickname": null,
+        "joined_at": "2023-08-23 10:21:44.968000+00:00",
+        "roles": [
+            "@everyone",
+            "Tech",
+            "Problem Finder",
+            "Comunicator",
+            "Idea Guy",
+            "ADM"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "tinatining",
+        "id": 416685497537003530,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/416685497537003530/3f9efd1f9c66a5d15e21d372d266479b.png?size=1024",
+        "nickname": null,
+        "joined_at": "2023-09-20 17:00:35.661000+00:00",
+        "roles": [
+            "@everyone",
+            "Marketing",
+            "Business",
+            "Design",
+            "Executor",
+            "Problem Finder",
+            "Peacemaker",
+            "ADM"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": ".miguelmarombal",
+        "id": 279694952089518080,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/279694952089518080/887c5b98cdc065210bad2a95f75337ce.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 16:52:32.006000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "victin27.",
+        "id": 575091325917986819,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/575091325917986819/1cdbe190d077cdfb4243640c2cc5d73a.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-27 20:45:27.746000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "pedropintouptec_68539",
+        "id": 1219730456707203174,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-19 19:34:04.143000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "anaisabelpinto_28841",
+        "id": 1220061063995854869,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:27:38.589000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "susana8787",
+        "id": 1007355628701892688,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:29:23.446000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "jeniferconstantino",
+        "id": 688886064517087371,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/688886064517087371/521f31e95c3230f7c7277d129af26472.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-04-19 07:03:52.451000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "joelf3",
+        "id": 428958487234609163,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/428958487234609163/2650234fd4f70d91f197f43f5ab3d467.png?size=1024",
+        "nickname": null,
+        "joined_at": "2023-12-19 16:01:49.323000+00:00",
+        "roles": [
+            "@everyone",
+            "Executor",
+            "Idea Guy"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "eduardooliveiraa",
+        "id": 1041394720095612968,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:29:09.331000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "sofiabuenos",
+        "id": 867857992484651031,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/867857992484651031/cbd09ce4e0fdef5e0796b71a18d987ab.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 17:43:01.475000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "antonio_vaz03",
+        "id": 1162754439598325761,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1162754439598325761/ce7fbbfaecaa0fc638adf2f5c0d1b7b6.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-04-12 22:45:37.879000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie",
+            "Tech",
+            "ADM"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "gbuenoss",
+        "id": 664315887331049491,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-19 11:32:07.247000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "catarina02243",
+        "id": 1220061933839974442,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:35:01.530000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "bullmaster",
+        "id": 269852906318987265,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/269852906318987265/fad14e247369431a80e02fe46995fea8.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-19 20:53:45.155000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie",
+            "Tech",
+            "Problem Finder",
+            "Idea Guy"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "iblameana",
+        "id": 1220060521592524870,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:26:22.979000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "filipe.reis",
+        "id": 465886590099783690,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:29:02.917000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "luca.santucci.",
+        "id": 718181750454354040,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-08 15:16:19.410000+00:00",
+        "roles": [
+            "@everyone",
+            "Idea Guy"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "whitedemonxd",
+        "id": 653735470785757195,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/653735470785757195/13b396c4884f92feff7c08b03104ffd7.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 17:56:19.639000+00:00",
+        "roles": [
+            "@everyone",
+            "WS"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "suileymane",
+        "id": 989704882363719701,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:30:10.598000+00:00",
+        "roles": [
+            "@everyone",
+            "WS"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "simone_34069",
+        "id": 1220063381092827210,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:36:48.974000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "inesnteixeira",
+        "id": 779846979370221598,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/779846979370221598/e8669759d7f02443064fc8b36b479866.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 17:33:42.902000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "claudia.mmmoreira",
+        "id": 881693817709948959,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/881693817709948959/49ea6a2bd243dc8177eab04aa4889e0b.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-15 08:26:41.173000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie",
+            "Tech",
+            "Problem Solver",
+            "Peacemaker"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "lewmor.",
+        "id": 768751157077344256,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:36:10.207000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "raquelgds",
+        "id": 270675922447761410,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/270675922447761410/927348430fda14b94b3e5e5c63568cb6.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-19 16:38:18.333000+00:00",
+        "roles": [
+            "@everyone",
+            "Speaker/Mentor"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "pedroestantes",
+        "id": 623887260370075660,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/623887260370075660/515058f33f3d0432ec46614aa237819f.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 17:39:22.192000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "meireles03",
+        "id": 802975703468998696,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:42:33.199000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "tiagofigueredoo",
+        "id": 1220055722130407485,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:12:22.741000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "star17391",
+        "id": 759354573336608790,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/759354573336608790/77e7af0fba095e28b778af722fadb070.png?size=1024",
+        "nickname": "Daniel Silva",
+        "joined_at": "2024-03-18 16:13:11.364000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "banana0218",
+        "id": 180979892651950080,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/180979892651950080/844c19ba0c2b112245f97ab49c67a554.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 09:57:59.379000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "glorious_kiwi_64947",
+        "id": 1220064413160050816,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:40:35.655000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "laroto_",
+        "id": 331577600243924995,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/331577600243924995/17ca54e53eb1e87a4b7e38a1c8262b35.png?size=1024",
+        "nickname": "Pedro Rocha",
+        "joined_at": "2024-03-11 22:22:17.665000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "mariaamaro_45949",
+        "id": 1126164341398446211,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-18 15:53:20.295000+00:00",
+        "roles": [
+            "@everyone"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "ritaoliveira1775",
+        "id": 595264517374476330,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/595264517374476330/e89e411f7a603327685762f1643b0b06.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-20 17:45:33.038000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "pedro_gusto",
+        "id": 661015337898082326,
+        "discriminator": "0",
+        "avatar_url": "https://cdn.discordapp.com/avatars/661015337898082326/78e2430d866767623e56a4258aa881be.png?size=1024",
+        "nickname": null,
+        "joined_at": "2024-03-19 12:21:50.212000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "manuelnetocruz",
+        "id": 753973962387488929,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-04-18 17:57:41.792000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "a.c.r6823",
+        "id": 1053492992280903701,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:29:34.378000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "ainhoa_95148",
+        "id": 1217540959529598979,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:33:51.311000+00:00",
+        "roles": [
+            "@everyone",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "camuscamus_93594",
+        "id": 1218294120469106839,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:38:06.030000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "manuelpousada_14412",
+        "id": 1220062679016669375,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2024-03-20 17:34:12.444000+00:00",
+        "roles": [
+            "@everyone",
+            "WS",
+            "Rookie"
+        ],
+        "status": "offline",
+        "activity": null
+    },
+    {
+        "name": "miguel_figueiredo7",
+        "id": 802278801152540682,
+        "discriminator": "0",
+        "avatar_url": null,
+        "nickname": null,
+        "joined_at": "2023-08-23 10:19:41.123000+00:00",
+        "roles": [
+            "@everyone",
+            "Business",
+            "ADM"
+        ],
+        "status": "offline",
+        "activity": null
+    }
+]

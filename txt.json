@@ -1,0 +1,75 @@
+{
+    "name": {
+      "text": "How to get Startup Ideas",
+      "html": "How to get Startup Ideas"
+    },
+    "description": {
+      "text": "\"Descubra segredos e inspire-se na jornada da inovação em nossa talk exclusiva online sobre 'How to get Startup Ideas'. Junte-se a nós!\"",
+      "html": "\"Descubra segredos e inspire-se na jornada da inovação em nossa talk exclusiva online sobre 'How to get Startup Ideas'. Junte-se a nós!\""
+    },
+    "url": "https://www.eventbrite.pt/e/bilhetes-how-to-get-startup-ideas-858229536647",
+    "start": {
+      "timezone": "Europe/London",
+      "local": "2024-03-20T17:30:00",
+      "utc": "2024-03-20T17:30:00Z"
+    },
+    "end": {
+      "timezone": "Europe/London",
+      "local": "2024-03-20T18:30:00",
+      "utc": "2024-03-20T18:30:00Z"
+    },
+    "organization_id": "2044104747353",
+    "created": "2024-03-06T16:38:45Z",
+    "changed": "2024-03-21T08:04:54Z",
+    "published": "2024-03-09T15:34:41Z",
+    "capacity": 150,
+    "capacity_is_custom": false,
+    "status": "completed",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "invite_only": false,
+    "online_event": true,
+    "show_remaining": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "pt_PT",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": true,
+    "version": null,
+    "summary": "\"Descubra segredos e inspire-se na jornada da inovação em nossa talk exclusiva online sobre 'How to get Startup Ideas'. Junte-se a nós!\"",
+    "facebook_event_id": null,
+    "logo_id": "714820599",
+    "organizer_id": "80297091433",
+    "venue_id": null,
+    "category_id": "101",
+    "subcategory_id": "1001",
+    "format_id": "9",
+    "id": "858229536647",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/858229536647/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F714820599%2F2044102934753%2F1%2Foriginal.20240308-140233?auto=format%2Ccompress&q=75&sharp=10&s=f5130baca058462f821f9ae665bb4df2",
+        "width": 1920,
+        "height": 1080
+      },
+      "id": "714820599",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F714820599%2F2044102934753%2F1%2Foriginal.20240308-140233?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=d46f16ca7b356b55157fb15e93bc5782",
+      "aspect_ratio": "1.775",
+      "edge_color": "#000000",
+      "edge_color_set": true
+    }
+  }
+  
