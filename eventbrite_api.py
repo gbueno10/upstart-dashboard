@@ -1,8 +1,8 @@
 import requests
 import pandas as pd
 from dotenv import load_dotenv
-import os
-load_dotenv()
+
+
 def verificar_usuario(token):
     url = "https://www.eventbriteapi.com/v3/users/me/"
     headers = {
@@ -33,8 +33,7 @@ def obter_id_organizacao(token):
         return response.status_code, response.text
 
 
-org_id = obter_id_organizacao(token)
-#print(org_id)
+
 
 
 def obter_numero_de_inscritos(token, evento_id):
@@ -123,12 +122,6 @@ def obter_ids_eventos(token, org_id):
     else:
         return response.status_code, response.text
 
-# Exemplo de uso:
-eventos = obter_ids_eventos(token_privado, org_id)
-#print(eventos)
-
-import requests
-import pandas as pd
 
 def obter_todos_participantes(token, eventos_dict):
     participantes_totais = []
@@ -164,10 +157,4 @@ def obter_todos_participantes(token, eventos_dict):
             else:
                 return pd.DataFrame(), f"Erro: {response.status_code}, {response.text}"
     return pd.DataFrame(participantes_totais)
-
-# Exemplo de uso:
-eventos = {'How to get Startup Ideas': '858229536647', 'Startups&Innovation Q&A w/UPTEC': '880298625887'}
-
-participantes = obter_todos_participantes(token_privado, eventos)
-#display(participantes)
 
