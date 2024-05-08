@@ -1,13 +1,10 @@
 import streamlit as st
 import json
 import pandas as pd
-import matplotlib.pyplot as plt
 from datetime import datetime
 from dotenv import load_dotenv
-import os
-
 load_dotenv()
-token=os.getenv('TOKEN') 
+
 # Função para carregar o JSON a partir do caminho do arquivo
 def load_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -16,7 +13,6 @@ def load_json(file_path):
 
 # Função para renderizar um card de membro da comunidade
 def render_user_card(user, col):
-    """Renderiza um card de usuário com informações."""
     roles = ', '.join(user['roles'])  # Converte lista de roles para string
     avatar_url = user['avatar_url'] or "URL_to_default_avatar"
     col.markdown(f"""
@@ -44,14 +40,10 @@ df['joined_at'] = pd.to_datetime(df['joined_at']).dt.date
 df.sort_values('joined_at', inplace=True)
 df['cumulative_count'] = range(1, len(df) + 1)
 
-# Plotar o crescimento da comunidade
+# Plotar o crescimento da comunidade usando st.line_chart()
 st.subheader("Crescimento da Comunidade")
-fig, ax = plt.subplots()
-ax.plot(df['joined_at'], df['cumulative_count'], marker='o', linestyle='-')
-ax.set_xlabel("Data")
-ax.set_ylabel("Número Cumulativo de Membros")
-ax.set_title("Crescimento da Comunidade ao Longo do Tempo")
-st.pyplot(fig)
+chart_data = df.set_index('joined_at')[['cumulative_count']]
+st.line_chart(chart_data)
 
 # Filtro por roles
 st.subheader("Filtrar por Papéis (Roles)")

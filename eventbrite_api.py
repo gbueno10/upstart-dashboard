@@ -1,6 +1,8 @@
 import requests
 import pandas as pd
-
+from dotenv import load_dotenv
+import os
+load_dotenv()
 def verificar_usuario(token):
     url = "https://www.eventbriteapi.com/v3/users/me/"
     headers = {
@@ -30,7 +32,7 @@ def obter_id_organizacao(token):
     else:
         return response.status_code, response.text
 
-token = 'KA5CJABXFH733E2TDWYI'
+
 org_id = obter_id_organizacao(token)
 #print(org_id)
 

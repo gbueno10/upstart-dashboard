@@ -1,9 +1,13 @@
 import streamlit as st
 import pandas as pd
 from eventbrite_api import verificar_usuario, obter_id_organizacao, obter_resumo_eventos, obter_ids_eventos, obter_todos_participantes
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 # Authentication and setup
-token = 'KA5CJABXFH733E2TDWYI'
+token=os.getenv('TOKEN') 
+print(token)
 org_id = obter_id_organizacao(token)
 
 # Sidebar for User Information
