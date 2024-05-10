@@ -7,6 +7,7 @@ import os
 load_dotenv()
 # Authentication and setup
 token=os.getenv('TOKEN') 
+print(token)
 org_id = obter_id_organizacao(token)
 
 
