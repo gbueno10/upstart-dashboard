@@ -7,13 +7,12 @@ import os
 load_dotenv()
 # Authentication and setup
 token=os.getenv('TOKEN') 
-print(token)
 org_id = obter_id_organizacao(token)
 
 
 
 # Main Page Layout
-st.title(f'Eventbrite Event Dashboard {token}')
+st.title(f'Eventbrite Event Dashboard')
 
 # Display event summary
 eventos_df = obter_resumo_eventos(token, org_id)
@@ -25,7 +24,12 @@ else:
 
 # Interactive selection of events to view participants
 eventos_dict = obter_ids_eventos(token, org_id)
-evento_selecionado = st.selectbox('Select an Event:', list(eventos_dict.keys()))
+
+if not eventos_dict:
+    st.error("Não foi possível recuperar eventos. Verifique as configurações e permissões.")
+else:
+    evento_selecionado = st.selectbox('Select an Event:', list(eventos_dict.keys()))
+    # Continuar com a lógica dependente do evento selecionado
 
 # Display participants for the selected event
 if evento_selecionado:

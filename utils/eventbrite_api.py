@@ -115,13 +115,16 @@ def obter_ids_eventos(token, org_id):
     response = requests.get(url, headers=headers)
     eventos_dict = {}
     if response.status_code == 200:
-        eventos = response.json()['events']
-        for evento in eventos:
-            eventos_dict[evento['name']['text']] = evento['id']
+        eventos = response.json().get('events', [])
+        if eventos:  # Verifica se a lista de eventos não está vazia
+            for evento in eventos:
+                eventos_dict[evento['name']['text']] = evento['id']
+        else:
+            print("Nenhum evento encontrado.")  # Log para diagnóstico
     else:
-        print(f"Erro {response.status_code}: {response.text}")  # Log para depuração
-    return eventos_dict  # Retorna sempre um dicionário, mesmo vazio
+        print(f"Erro ao acessar API: {response.status_code} - {response.text}")  # Log de erro
 
+    return eventos_dict
 
 def obter_todos_participantes(token, eventos_dict):
     participantes_totais = []
