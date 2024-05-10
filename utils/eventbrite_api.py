@@ -118,9 +118,9 @@ def obter_ids_eventos(token, org_id):
         eventos = response.json()['events']
         for evento in eventos:
             eventos_dict[evento['name']['text']] = evento['id']
-        return eventos_dict
     else:
-        return response.status_code, response.text
+        print(f"Erro {response.status_code}: {response.text}")  # Log para depuração
+    return eventos_dict  # Retorna sempre um dicionário, mesmo vazio
 
 
 def obter_todos_participantes(token, eventos_dict):
