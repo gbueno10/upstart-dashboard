@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from eventbrite_api import  obter_id_organizacao, obter_resumo_eventos, obter_ids_eventos, obter_todos_participantes
+from utils.eventbrite_api import  obter_id_organizacao, obter_resumo_eventos, obter_ids_eventos, obter_todos_participantes
 from dotenv import load_dotenv
 import os
 

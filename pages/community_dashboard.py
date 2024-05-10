@@ -39,20 +39,6 @@ df = pd.DataFrame(community_data)
 df['joined_at'] = pd.to_datetime(df['joined_at']).dt.date
 df.sort_values('joined_at', inplace=True)
 df['cumulative_count'] = range(1, len(df) + 1)
-
-# Plotar o crescimento da comunidade usando st.line_chart()
-st.subheader("Crescimento da Comunidade")
-chart_data = df.set_index('joined_at')[['cumulative_count']]
-st.line_chart(chart_data)
-
-# Filtro por roles
-st.subheader("Filtrar por Papéis (Roles)")
-roles = list(set(role for user in community_data for role in user['roles']))
-selected_roles = st.multiselect("Selecione os Papéis (Roles)", roles, roles)
-
-# Aplicar filtro
-filtered_data = [user for user in community_data if any(role in user['roles'] for role in selected_roles)]
-
 # Indicadores de resumo
 st.subheader("Resumo dos Participantes")
 total_members = len(community_data)
@@ -67,6 +53,20 @@ cols[1].metric("Marketing", total_marketing)
 cols[2].metric("Design", total_design)
 cols[3].metric("Business", total_business)
 cols[4].metric("Tech", total_tech)
+
+# Plotar o crescimento da comunidade usando st.line_chart()
+st.subheader("Crescimento da Comunidade")
+chart_data = df.set_index('joined_at')[['cumulative_count']]
+st.line_chart(chart_data)
+
+# Filtro por roles
+st.subheader("Filtrar por Papéis (Roles)")
+roles = list(set(role for user in community_data for role in user['roles']))
+selected_roles = st.multiselect("Selecione os Papéis (Roles)", roles, roles)
+
+# Aplicar filtro
+filtered_data = [user for user in community_data if any(role in user['roles'] for role in selected_roles)]
+
 
 # Renderizar cards para cada membro da comunidade em colunas
 st.subheader("Membros da Comunidade")
