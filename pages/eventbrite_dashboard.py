@@ -7,6 +7,7 @@ import os
 load_dotenv()
 # Authentication and setup
 token=os.getenv('TOKEN') 
+print(token)
 org_id = obter_id_organizacao(token)
 
 
@@ -30,7 +31,6 @@ if not eventos_dict:
 else:
     evento_selecionado = st.selectbox('Select an Event:', list(eventos_dict.keys()))
     # Continuar com a lógica dependente do evento selecionado
-
 # Display participants for the selected event
 if evento_selecionado:
     participantes_df = obter_todos_participantes(token, {evento_selecionado: eventos_dict[evento_selecionado]})

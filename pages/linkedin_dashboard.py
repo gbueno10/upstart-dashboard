@@ -3,7 +3,6 @@ import pandas as pd
 from dotenv import load_dotenv
 import os
 from utils.rows_api import fetch_table_data
-import streamlit.components.v1 as components  # Importando components corretamente
 
 # Carregando variáveis de ambiente e dados
 load_dotenv()
