@@ -13,7 +13,7 @@ org_id = obter_id_organizacao(token)
 
 
 # Main Page Layout
-st.title('Eventbrite Event Dashboard',token)
+st.title(f'Eventbrite Event Dashboard {token}')
 
 # Display event summary
 eventos_df = obter_resumo_eventos(token, org_id)
